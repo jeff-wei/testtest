@@ -12,3 +12,7 @@
 - key [w] : Jump
 - key [a] : Move forward
 - key [d] : Move backward
+# Screenshot
+
+![image](https://github.com/jeff-wei/testtest/blob/main/screenshot.png)
+
